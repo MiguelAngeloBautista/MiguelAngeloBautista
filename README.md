@@ -44,9 +44,13 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 9 mins
 
-No activity tracked
+Markdown   41 mins         ███████████████░░░░░░░░░░   59.62 %
+YAML       16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+Python     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+C++        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Java       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
