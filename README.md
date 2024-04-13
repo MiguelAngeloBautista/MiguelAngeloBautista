@@ -26,6 +26,12 @@ I've developed some games in Unreal Engine, as well as LibGDX in Java
 ---
 <!--START_SECTION:waka-->
 
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
