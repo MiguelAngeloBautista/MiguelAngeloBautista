@@ -1,4 +1,4 @@
-![](header.png)  <!-- https://reheader.glitch.me/home -->
+![](header.png)  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelangelobautista/) 
 <!-- [![Static Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&labelColor=white)] Under Construction--> 
@@ -40,7 +40,7 @@ If you're interested, check out down below for some of my favourite games and An
 
 ![](github-metrics.svg)
 
-<!-- https://wakatime.com/dashboard -->
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -54,3 +54,23 @@ Java       1 min           ▓░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+
+<!-- Relevant Links
+https://reheader.glitch.me/home - Header Images
+
+https://wakatime.com/dashboard - Waka Metrics
+
+https://shields.io/badges - Badges
+https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#usage - Other Badges
+
+https://simpleicons.org/ - Icons
+
+https://github.com/lowlighter/metrics - Metrics
+https://metrics.lecoq.io/embed?user=NomaDiix - Metrics builder
+
+https://github.com/topics/github-profile-readme - GitHub profile README topic
+
+https://zzetao.github.io/awesome-github-profile/ - Example profile READMEs
+
+ -->
