@@ -9,15 +9,15 @@ I've developed some games in Unreal Engine, as well as LibGDX in Java
 
 ### Languages and Tools
 ---
-<img src="./Icons/python-color.svg" width="5%">
-<img src="./Icons/cplusplus-color.svg" width="5%">
-<img src="./Icons/docker-color.svg" width="5%">
-<img src="./Icons/javascript-color.svg" width="5%">
-<img src="./Icons/portainer-color.svg" width="5%">
-<img src="./Icons/proxmox-color.svg" width="5%">
-<img src="./Icons/unrealengine-color.svg" width="5%">
-<img src="./Icons/androidstudio-color.svg" width="5%">
-<img src="./Icons/html5-color.svg" width="5%">
+<img src="./Icons/python-color.svg" width="3%">
+<img src="./Icons/cplusplus-color.svg" width="3%">
+<img src="./Icons/docker-color.svg" width="3%">
+<img src="./Icons/javascript-color.svg" width="3%">
+<img src="./Icons/portainer-color.svg" width="3%">
+<img src="./Icons/proxmox-color.svg" width="3%">
+<img src="./Icons/unrealengine-color.svg" width="3%">
+<img src="./Icons/androidstudio-color.svg" width="3%">
+<img src="./Icons/html5-color.svg" width="3%">
 
 
 ### Waka Stats
