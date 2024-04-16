@@ -44,14 +44,17 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 53 mins
+Total Time: 3 hrs 37 mins
 
-Markdown      1 hr 29 mins    █████████████░░░░░░░░░░░░   51.43 %
-YAML          43 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-C++           32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-Python        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Java          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown      1 hr 32 mins    ██████████▓░░░░░░░░░░░░░░   42.29 %
+YAML          43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+C++           32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+JavaScript    21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+TypeScript    10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+JSON          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Python        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Java          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
