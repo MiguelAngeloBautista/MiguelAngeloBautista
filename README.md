@@ -44,13 +44,12 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 53 mins
+Total Time: 4 hrs 28 mins
 
-Python       8 hrs 34 mins   ████████████████████████░   96.42 %
-Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       4 hrs 10 mins   ███████████████████████▒░   93.48 %
+Markdown     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
