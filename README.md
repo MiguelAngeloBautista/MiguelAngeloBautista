@@ -44,11 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 8 mins
+Total Time: 1 min
 
-Python     53 mins         ███████████████████▒░░░░░   77.25 %
-Markdown   15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.68 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
