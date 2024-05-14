@@ -44,18 +44,18 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 53 mins
+Total Time: 19 hrs 35 mins
 
-TypeScript    12 hrs 18 mins  ████████████████████▓░░░░   82.53 %
-Markdown      42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-JavaScript    36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-JSON          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Docker        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Git Config    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-CSS           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Batchfile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Bash          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript    16 hrs 33 mins  █████████████████████░░░░   84.53 %
+Markdown      42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript    37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+JSON          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Bash          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Docker        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Git Config    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+CSS           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Batchfile     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Image (svg)   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
