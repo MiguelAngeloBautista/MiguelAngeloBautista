@@ -44,18 +44,18 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 33 mins
+Total Time: 13 hrs 39 mins
 
-TypeScript    8 hrs 32 mins   █████████████▓░░░░░░░░░░░   54.51 %
-Java          3 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
-C++           2 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-Bash          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-JSON          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Git Config    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-CMake         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Other         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Batchfile     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Image (svg)   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript    6 hrs 46 mins   ████████████▒░░░░░░░░░░░░   49.24 %
+Java          3 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+C++           2 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+Bash          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JSON          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+CMake         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Git Config    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Image (svg)   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
