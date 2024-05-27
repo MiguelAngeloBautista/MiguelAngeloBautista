@@ -44,16 +44,16 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 46 mins
+Total Time: 12 hrs 9 mins
 
-TypeScript   10 hrs 40 mins  █████████████████████░░░░   83.58 %
-C++          1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-CSS          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-PowerShell   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Java         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-CMake        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript   10 hrs 3 mins   ████████████████████▓░░░░   82.74 %
+C++          1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+CSS          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+PowerShell   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Java         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+CMake        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
