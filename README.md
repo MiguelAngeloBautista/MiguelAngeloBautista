@@ -44,17 +44,17 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 12 mins
+Total Time: 2 hrs 27 mins
 
-TypeScript   6 hrs 48 mins   ██████████████████▓░░░░░░   74.01 %
-C++          1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Batchfile    22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-PowerShell   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-CMake        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   1 hr 9 mins     ███████████▓░░░░░░░░░░░░░   47.27 %
+Docker       27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+Batchfile    22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+YAML         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+PowerShell   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+C++          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
