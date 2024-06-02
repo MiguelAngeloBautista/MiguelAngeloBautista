@@ -44,16 +44,16 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 1 min
+Total Time: 5 hrs 14 mins
 
-TypeScript   4 hrs 35 mins   ███████████████████░░░░░░   76.20 %
-Docker       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Batchfile    22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-YAML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript   3 hrs 50 mins   ██████████████████▒░░░░░░   73.35 %
+Docker       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Batchfile    22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+YAML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
