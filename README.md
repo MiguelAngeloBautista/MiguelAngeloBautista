@@ -44,18 +44,15 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 27 mins
+Total Time: 2 hrs 53 mins
 
-TypeScript    3 hrs 50 mins   █████████████████▓░░░░░░░   70.00 %
-C++           56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-C             20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Bash          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Git Config    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Docker        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-JavaScript    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-CMake         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+TypeScript    1 hr 29 mins    ████████████▓░░░░░░░░░░░░   51.10 %
+C++           56 mins         ████████░░░░░░░░░░░░░░░░░   32.06 %
+C             20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Git Config    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+CMake         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
