@@ -44,15 +44,15 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 53 mins
+Total Time: 2 hrs 33 mins
 
-TypeScript    1 hr 29 mins    ████████████▓░░░░░░░░░░░░   51.10 %
-C++           56 mins         ████████░░░░░░░░░░░░░░░░░   32.06 %
-C             20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Git Config    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-CMake         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TypeScript    1 hr 10 mins    ███████████▒░░░░░░░░░░░░░   45.07 %
+C++           56 mins         █████████░░░░░░░░░░░░░░░░   36.01 %
+C             20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+Git Config    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+CMake         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
