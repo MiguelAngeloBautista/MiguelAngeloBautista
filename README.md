@@ -44,18 +44,12 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 57 mins
+Total Time: 3 hrs 33 mins
 
-TypeScript    3 hrs 26 mins   █████████████████▒░░░░░░░   69.14 %
-C++           56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-C             20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-CSS           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Git Config    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-CMake         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   3 hrs 26 mins   ████████████████████████▒   96.85 %
+CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
