@@ -46,9 +46,9 @@ If you're interested, check out down below for some of my favourite games and An
 ```txt
 Total Time: 4 hrs 49 mins
 
-YAML         4 hrs 4 mins    █████████████████████░░░░   84.66 %
-TypeScript   42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+YAML         4 hrs 4 mins    █████████████████████░░░░   84.61 %
+TypeScript   42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
