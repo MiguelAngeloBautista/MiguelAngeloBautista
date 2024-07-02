@@ -44,15 +44,14 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 27 mins
+Total Time: 2 hrs 23 mins
 
-YAML         4 hrs 26 mins   ████████████████████▒░░░░   81.37 %
-TypeScript   50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML         1 hr 25 mins    ███████████████░░░░░░░░░░   59.41 %
+TypeScript   49 mins         ████████▓░░░░░░░░░░░░░░░░   34.37 %
+JavaScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
