@@ -46,11 +46,11 @@ If you're interested, check out down below for some of my favourite games and An
 ```txt
 Total Time: 37 mins
 
-YAML         21 mins         ██████████████░░░░░░░░░░░   56.28 %
-TypeScript   8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
-JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+YAML         21 mins         ██████████████░░░░░░░░░░░   56.52 %
+TypeScript   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
