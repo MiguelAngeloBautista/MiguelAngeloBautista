@@ -44,9 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 9 mins
 
-YAML   3 mins          █████████████████████████   100.00 %
+YAML   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
