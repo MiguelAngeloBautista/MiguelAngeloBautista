@@ -44,11 +44,10 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 mins
+Total Time: 11 mins
 
-TypeScript   7 mins          ██████████▒░░░░░░░░░░░░░░   41.76 %
-YAML         5 mins          ████████▓░░░░░░░░░░░░░░░░   35.02 %
-JavaScript   3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
+TypeScript   7 mins          ████████████████░░░░░░░░░   64.26 %
+JavaScript   3 mins          █████████░░░░░░░░░░░░░░░░   35.74 %
 ```
 
 <!--END_SECTION:waka-->
