@@ -44,9 +44,11 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 14 mins
 
-No activity tracked
+GitIgnore file   11 mins         ████████████████████░░░░░   80.20 %
+Java             2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
