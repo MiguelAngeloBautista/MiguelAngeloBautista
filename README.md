@@ -46,9 +46,9 @@ If you're interested, check out down below for some of my favourite games and An
 ```txt
 Total Time: 19 mins
 
-GitIgnore file   11 mins         ███████████████▒░░░░░░░░░   61.18 %
-Java             5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
-JSON             2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+GitIgnore file   11 mins         ███████████████▒░░░░░░░░░   60.96 %
+Java             5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
+JSON             2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
 Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
