@@ -44,10 +44,13 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 2 hrs 45 mins
 
-JSON   2 mins          █████████████▒░░░░░░░░░░░   53.50 %
-Java   2 mins          ███████████▓░░░░░░░░░░░░░   46.50 %
+Java     1 hr 6 mins     ██████████░░░░░░░░░░░░░░░   40.50 %
+Groovy   52 mins         ████████░░░░░░░░░░░░░░░░░   32.02 %
+XML      28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+Gradle   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+JSON     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
