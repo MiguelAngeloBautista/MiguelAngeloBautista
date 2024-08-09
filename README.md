@@ -46,12 +46,12 @@ If you're interested, check out down below for some of my favourite games and An
 ```txt
 Total Time: 2 hrs 49 mins
 
-Java         1 hr 12 mins    ██████████▓░░░░░░░░░░░░░░   42.42 %
-Groovy       52 mins         ███████▓░░░░░░░░░░░░░░░░░   31.11 %
-XML          28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Gradle       14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Java         1 hr 12 mins    ██████████▓░░░░░░░░░░░░░░   42.44 %
+Groovy       52 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+XML          28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+Gradle       14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
