@@ -44,16 +44,13 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 49 mins
+Total Time: 9 mins
 
-Java         1 hr 12 mins    ██████████▓░░░░░░░░░░░░░░   42.44 %
-Groovy       52 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
-XML          28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Gradle       14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java         7 mins          ███████████████████▓░░░░░   78.39 %
+Git Config   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
