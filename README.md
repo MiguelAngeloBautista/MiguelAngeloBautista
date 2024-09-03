@@ -44,12 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 mins
+Total Time: 0 secs
 
-Java     8 mins          ██████████████▒░░░░░░░░░░   56.69 %
-Groovy   6 mins          ██████████▓░░░░░░░░░░░░░░   42.22 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Gradle   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
