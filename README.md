@@ -46,9 +46,7 @@ If you're interested, check out down below for some of my favourite games and An
 ```txt
 Total Time: 0 secs
 
-Groovy   0 secs          ███████████████████▒░░░░░   77.84 %
-Java     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
-Gradle   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
