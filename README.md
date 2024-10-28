@@ -44,9 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 16 mins
 
-No activity tracked
+C#   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
