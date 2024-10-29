@@ -44,9 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 mins
+Total Time: 2 hrs 33 mins
 
-C#   16 mins         █████████████████████████   100.00 %
+C#   2 hrs 33 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
