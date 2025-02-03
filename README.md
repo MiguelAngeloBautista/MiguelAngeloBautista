@@ -44,9 +44,12 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 50 mins
 
-No activity tracked
+Python       42 mins         █████████████████████░░░░   83.50 %
+Git Config   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Text         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
