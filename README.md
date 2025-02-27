@@ -44,18 +44,18 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 35 mins
+Total Time: 3 hrs 40 mins
 
-Python           1 hr 58 mins    █████████████▓░░░░░░░░░░░   54.74 %
-Bash             47 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-YAML             31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
-Docker           17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python           1 hr 58 mins    █████████████▒░░░░░░░░░░░   53.58 %
+Bash             47 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+YAML             31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Docker           17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+SSH Config       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
