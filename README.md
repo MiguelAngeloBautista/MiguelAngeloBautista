@@ -44,16 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 mins
+Total Time: 4 mins
 
-YAML             30 mins         ██████████████████▓░░░░░░   74.16 %
-Python           5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-SSH Config       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Bash             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SSH Config   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
