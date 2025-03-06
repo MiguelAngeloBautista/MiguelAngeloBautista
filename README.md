@@ -44,9 +44,11 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 25 mins
 
-SSH Config   4 mins          █████████████████████████   100.00 %
+YAML   23 mins         ██████████████████████▒░░   89.95 %
+Bash   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
