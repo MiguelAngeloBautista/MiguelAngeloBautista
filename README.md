@@ -44,17 +44,17 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 11 mins
+Total Time: 2 hrs 22 mins
 
-C++           1 hr 15 mins    ██████████████▒░░░░░░░░░░   57.59 %
-YAML          23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
-Bash          17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-C             7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-JSON          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Diff          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Git           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C++           1 hr 26 mins    ███████████████▒░░░░░░░░░   60.86 %
+YAML          23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+Bash          17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+C             7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+JSON          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Diff          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Git           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
