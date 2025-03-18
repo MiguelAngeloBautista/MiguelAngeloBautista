@@ -44,12 +44,12 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 4 mins
+Total Time: 59 mins
 
-Python   57 mins         ██████████████████████▒░░   88.72 %
-C++      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-JSON     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Python   52 mins         ██████████████████████░░░   88.00 %
+C++      4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+JSON     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
