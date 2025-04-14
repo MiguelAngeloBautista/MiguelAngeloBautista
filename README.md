@@ -44,11 +44,11 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 58 mins
+Total Time: 5 hrs 35 mins
 
-GDScript3        6 hrs 52 mins   ████████████████████████▓   98.50 %
-Godot Resource   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+GDScript3        5 hrs 29 mins   ████████████████████████▓   98.29 %
+Godot Resource   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
