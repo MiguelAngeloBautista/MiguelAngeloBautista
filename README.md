@@ -44,10 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 35 mins
+Total Time: 13 mins
 
-GDScript3   21 mins         ███████████████▒░░░░░░░░░   61.20 %
-Markdown    13 mins         █████████▓░░░░░░░░░░░░░░░   38.80 %
+Markdown   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
