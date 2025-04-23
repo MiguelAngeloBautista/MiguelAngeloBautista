@@ -44,9 +44,13 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 mins
+Total Time: 1 hr 44 mins
 
-Markdown   13 mins         █████████████████████████   100.00 %
+YAML         1 hr 25 mins    ████████████████████▒░░░░   81.22 %
+Markdown     15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+C#           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
