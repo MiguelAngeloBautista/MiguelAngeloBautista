@@ -44,12 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 0 secs
 
-JSON    3 mins          ██████████████▒░░░░░░░░░░   57.02 %
-C#      2 mins          ████████▒░░░░░░░░░░░░░░░░   33.50 %
-Other   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-INI     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
