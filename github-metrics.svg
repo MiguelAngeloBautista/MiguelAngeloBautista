@@ -344,7 +344,7 @@ Developed Games: 3</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.98
+                            Average per day at ~1.02
                         </div>
                     </section>
                 </div>
@@ -513,43 +513,6 @@ Developed Games: 3</div>
                             </g>
                         </g>
                         <g transform="translate(6.8, 4)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(8.5, 5)">
                             <g transform="translate(0, 5.368421052631579)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
@@ -586,7 +549,7 @@ Developed Games: 3</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
                             </g>
                         </g>
-                        <g transform="translate(10.2, 6)">
+                        <g transform="translate(8.5, 5)">
                             <g transform="translate(0, 2.210526315789474)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.789473684210526 0,4.789473684210526 z"/>
@@ -623,7 +586,7 @@ Developed Games: 3</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
                             </g>
                         </g>
-                        <g transform="translate(11.9, 7)">
+                        <g transform="translate(10.2, 6)">
                             <g transform="translate(0, 5.684210526315789)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
@@ -660,16 +623,16 @@ Developed Games: 3</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(13.6, 8)">
+                        <g transform="translate(11.9, 7)">
                             <g transform="translate(0, 5.052631578947368)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9473684210526314 0,1.9473684210526314 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9473684210526314 1.7,2.9473684210526314 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9473684210526314 0,1.9473684210526314 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9473684210526314 1.7,2.9473684210526314 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.368421052631579)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.684210526315789)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -697,7 +660,7 @@ Developed Games: 3</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(15.299999999999999, 9)">
+                        <g transform="translate(13.6, 8)">
                             <g transform="translate(0, 5.684210526315789)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
@@ -734,7 +697,7 @@ Developed Games: 3</div>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
                             </g>
                         </g>
-                        <g transform="translate(17, 10)">
+                        <g transform="translate(15.299999999999999, 9)">
                             <g transform="translate(0, 5.684210526315789)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
@@ -771,7 +734,7 @@ Developed Games: 3</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
                             </g>
                         </g>
-                        <g transform="translate(18.7, 11)">
+                        <g transform="translate(17, 10)">
                             <g transform="translate(0, 5.684210526315789)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
@@ -808,7 +771,7 @@ Developed Games: 3</div>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.263157894736842 1.7,3.263157894736842 z"/>
                             </g>
                         </g>
-                        <g transform="translate(20.4, 12)">
+                        <g transform="translate(18.7, 11)">
                             <g transform="translate(0, 5.368421052631579)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
@@ -820,9 +783,46 @@ Developed Games: 3</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.7368421052631575)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.263157894736842 0,2.263157894736842 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.263157894736842 1.7,3.263157894736842 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.263157894736842 0,2.263157894736842 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.263157894736842 1.7,3.263157894736842 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(20.4, 12)">
+                            <g transform="translate(0, 5.368421052631579)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -846,43 +846,6 @@ Developed Games: 3</div>
                             </g>
                         </g>
                         <g transform="translate(22.099999999999998, 13)">
-                            <g transform="translate(0, 5.368421052631579)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(23.8, 14)">
                             <g transform="translate(0, 5.052631578947368)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9473684210526314 0,1.9473684210526314 z"/>
@@ -899,9 +862,9 @@ Developed Games: 3</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.368421052631579)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.68421052631579)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -919,7 +882,7 @@ Developed Games: 3</div>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9473684210526314 1.7,2.9473684210526314 z"/>
                             </g>
                         </g>
-                        <g transform="translate(25.5, 15)">
+                        <g transform="translate(23.8, 14)">
                             <g transform="translate(0, 5.052631578947368)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9473684210526314 0,1.9473684210526314 z"/>
@@ -941,9 +904,9 @@ Developed Games: 3</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.789473684210526)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.2105263157894735 0,3.2105263157894735 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2105263157894735 1.7,4.2105263157894735 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.2105263157894735 0,3.2105263157894735 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2105263157894735 1.7,4.2105263157894735 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -951,12 +914,12 @@ Developed Games: 3</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.736842105263158)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.263157894736842 0,2.263157894736842 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.263157894736842 1.7,3.263157894736842 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.263157894736842 0,2.263157894736842 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.263157894736842 1.7,3.263157894736842 z"/>
                             </g>
                         </g>
-                        <g transform="translate(27.2, 16)">
+                        <g transform="translate(25.5, 15)">
                             <g transform="translate(0, 5.368421052631579)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
@@ -993,21 +956,21 @@ Developed Games: 3</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(28.9, 17)">
+                        <g transform="translate(27.2, 16)">
                             <g transform="translate(0, 5.684210526315789)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.421052631578948)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5789473684210527 0,2.5789473684210527 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5789473684210527 1.7,3.5789473684210527 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5789473684210527 0,2.5789473684210527 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5789473684210527 1.7,3.5789473684210527 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.105263157894737)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.894736842105263 0,2.894736842105263 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.894736842105263 1.7,3.894736842105263 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.894736842105263 0,2.894736842105263 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.894736842105263 1.7,3.894736842105263 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.68421052631579)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1018,6 +981,43 @@ Developed Games: 3</div>
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(28.9, 17)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 7.684210526315789)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1041,10 +1041,10 @@ Developed Games: 3</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.684210526315789)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1315,38 +1315,6 @@ Developed Games: 3</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1415,9 +1383,9 @@ Developed Games: 3</div>
                             </h2>
                             <div class="medias largeable-flex-wrap">
                                 <div class="media largeable-width-half">
-                                    <img src="data:image/jpg;base64,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" width="48" height="72" alt="" />
+                                    <img src="data:image/jpg;base64,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" width="48" height="72" alt="" />
                                     <div class="about">
-                                        <div class="name">Girls und Panzer</div>
+                                        <div class="name">Yuru Camp△ Movie</div>
                                         <div class="infos">
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1429,19 +1397,19 @@ Developed Games: 3</div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
                                                 </svg>
-                                                2012
+                                                2022
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill-rule="evenodd" d="M8.834.066C7.494-.087 6.5 1.048 6.5 2.25v.5c0 1.329-.647 2.124-1.318 2.614-.328.24-.66.403-.918.508A1.75 1.75 0 002.75 5h-1A1.75 1.75 0 000 6.75v7.5C0 15.216.784 16 1.75 16h1a1.75 1.75 0 001.662-1.201c.525.075 1.067.229 1.725.415.152.043.31.088.475.133 1.154.32 2.54.653 4.388.653 1.706 0 2.97-.153 3.722-1.14.353-.463.537-1.042.668-1.672.118-.56.208-1.243.313-2.033l.04-.306c.25-1.869.265-3.318-.188-4.316a2.418 2.418 0 00-1.137-1.2C13.924 5.085 13.353 5 12.75 5h-1.422l.015-.113c.07-.518.157-1.17.157-1.637 0-.922-.151-1.719-.656-2.3-.51-.589-1.247-.797-2.01-.884zM4.5 13.3c.705.088 1.39.284 2.072.478l.441.125c1.096.305 2.334.598 3.987.598 1.794 0 2.28-.223 2.528-.549.147-.193.276-.505.394-1.07.105-.502.188-1.124.295-1.93l.04-.3c.25-1.882.189-2.933-.068-3.497a.922.922 0 00-.442-.48c-.208-.104-.52-.174-.997-.174H11c-.686 0-1.295-.577-1.206-1.336.023-.192.05-.39.076-.586.065-.488.13-.97.13-1.328 0-.809-.144-1.15-.288-1.316-.137-.158-.402-.304-1.048-.378C8.357 1.521 8 1.793 8 2.25v.5c0 1.922-.978 3.128-1.933 3.825a5.861 5.861 0 01-1.567.81V13.3zM2.75 6.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25h-1a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25h1z"/>
                                                 </svg>
-                                                74%
+                                                83%
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                                                 </svg>
-                                                12 episodes
+                                                1 episode
                                             </div>
                                         </div>
                                         <div class="infos">
@@ -1449,11 +1417,12 @@ Developed Games: 3</div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                                 </svg>
-                                                Action, Sports
+                                                Comedy, Slice of Life
                                             </div>
                                         </div>
-                                        <div class="description">You may have heard of kung fu, but the girls at Oarai High School practice gun-fu—really, really BIG 75mm gun-fu, in fact. It's called Sensha-do, and it's the martial art of operating armored tanks! They take it seriously too, and since winning the national Sensha-do championship is such a huge deal at Oarai, they sometimes go to extreme ends in order to get the best students from Panzer class to sign up. Which is how Miho Nishizumi, who HATES operating tanks, gets drafted to join doomsday-driven driver Mako, even-triggered gunner Hana, highly receptive radio operator Saori and combustible tank-fangirl and loader Yukari as the incomparable Anko Team. They may not be on the half-track to fame and fortune, and maybe a few of them would rather shop for tank tops than become tops in tanks, but once their focus is locked and loaded, they're absolutely driven.  
-(Source: Sentai Filmworks)</div>
+                                        <div class="description">Rin Shima has left her hometown in Yamanashi to live on her own in Nagoya while working for a small publishing company there. On one winter’s weekend in the not-too-distant future, as she’s planning a bike tour, she unexpectedly receives a message from an old high school friend, Chiaki Oogaki, saying she’s currently in Nagoya. Chiaki now works for an organization promoting tourism in Yamanashi, and she’s in charge of a project to reopen a facility that was closed a few years ago. When Rin casually suggests that such a large property would make a good campground, Chiaki is inspired. She gathers up all of their old camping buddies— Nadeshiko Kagamihara, who works at an outdoor goods store in Tokyo; Aoi Inuyama, who’s now an elementary school teacher in their hometown of Yamanashi; and Ena Saitou, who works at a dog grooming salon in Yokohama—and the campground-opening project is set in motion. So the story of five outdoorsy girls who became friends thanks to their shared love of camping begins once more, taking on a new challenge with the knowledge and experience they’ve gained.
+  
+(Source: Crunchyroll, edited)</div>
                                     </div>
                                 </div>
                                 <div class="media largeable-width-half">
@@ -1500,6 +1469,47 @@ Firepower and strategy are the name of the game as the schools square off on thr
                                     </div>
                                 </div>
                                 <div class="media largeable-width-half">
+                                    <img src="data:image/jpg;base64,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" width="48" height="72" alt="" />
+                                    <div class="about">
+                                        <div class="name">Yuru Camp△</div>
+                                        <div class="infos">
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"/>
+                                                </svg>
+                                                Anime
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                                </svg>
+                                                2018
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M8.834.066C7.494-.087 6.5 1.048 6.5 2.25v.5c0 1.329-.647 2.124-1.318 2.614-.328.24-.66.403-.918.508A1.75 1.75 0 002.75 5h-1A1.75 1.75 0 000 6.75v7.5C0 15.216.784 16 1.75 16h1a1.75 1.75 0 001.662-1.201c.525.075 1.067.229 1.725.415.152.043.31.088.475.133 1.154.32 2.54.653 4.388.653 1.706 0 2.97-.153 3.722-1.14.353-.463.537-1.042.668-1.672.118-.56.208-1.243.313-2.033l.04-.306c.25-1.869.265-3.318-.188-4.316a2.418 2.418 0 00-1.137-1.2C13.924 5.085 13.353 5 12.75 5h-1.422l.015-.113c.07-.518.157-1.17.157-1.637 0-.922-.151-1.719-.656-2.3-.51-.589-1.247-.797-2.01-.884zM4.5 13.3c.705.088 1.39.284 2.072.478l.441.125c1.096.305 2.334.598 3.987.598 1.794 0 2.28-.223 2.528-.549.147-.193.276-.505.394-1.07.105-.502.188-1.124.295-1.93l.04-.3c.25-1.882.189-2.933-.068-3.497a.922.922 0 00-.442-.48c-.208-.104-.52-.174-.997-.174H11c-.686 0-1.295-.577-1.206-1.336.023-.192.05-.39.076-.586.065-.488.13-.97.13-1.328 0-.809-.144-1.15-.288-1.316-.137-.158-.402-.304-1.048-.378C8.357 1.521 8 1.793 8 2.25v.5c0 1.922-.978 3.128-1.933 3.825a5.861 5.861 0 01-1.567.81V13.3zM2.75 6.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25h-1a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25h1z"/>
+                                                </svg>
+                                                81%
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
+                                                </svg>
+                                                12 episodes
+                                            </div>
+                                        </div>
+                                        <div class="infos">
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                                </svg>
+                                                Comedy, Slice of Life
+                                            </div>
+                                        </div>
+                                        <div class="description">Rin likes to go camping by herself along the lakes that provide a scenic view of Mt. Fuji. Nadeshiko loves to take cycling trips by herself to places where she can see Mt. Fuji. After they meet, Rin and Nadeshiko take camping trips, eat cup ramen together, and enjoy the scenery.   (Source: Anime News Network)</div>
+                                    </div>
+                                </div>
+                                <div class="media largeable-width-half">
                                     <img src="data:image/jpg;base64,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" width="48" height="72" alt="" />
                                     <div class="about">
                                         <div class="name">Isekai Nonbiri Nouka</div>
@@ -1540,49 +1550,6 @@ Firepower and strategy are the name of the game as the schools square off on thr
                                         <div class="description">Life cut short by illness at just 39 years old, Machio Hiraku knows not to take simple blessings for granted. When a godlike figure gives him given a chance to live again, Hiraku has only the simplest of wishes for his new life: to be healthy, to live peacefully, to speak the local language, and to spend his days on an idyllic farm. Fresh air, sunshine, honest work, and good company combine to form the happy, peaceful existence Hiraku has always dreamed of. 
  
 (Source: HIDIVE)</div>
-                                    </div>
-                                </div>
-                                <div class="media largeable-width-half">
-                                    <img src="data:image/jpg;base64,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" width="48" height="72" alt="" />
-                                    <div class="about">
-                                        <div class="name">Yuru Camp△ Movie</div>
-                                        <div class="infos">
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"/>
-                                                </svg>
-                                                Anime
-                                            </div>
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
-                                                </svg>
-                                                2022
-                                            </div>
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill-rule="evenodd" d="M8.834.066C7.494-.087 6.5 1.048 6.5 2.25v.5c0 1.329-.647 2.124-1.318 2.614-.328.24-.66.403-.918.508A1.75 1.75 0 002.75 5h-1A1.75 1.75 0 000 6.75v7.5C0 15.216.784 16 1.75 16h1a1.75 1.75 0 001.662-1.201c.525.075 1.067.229 1.725.415.152.043.31.088.475.133 1.154.32 2.54.653 4.388.653 1.706 0 2.97-.153 3.722-1.14.353-.463.537-1.042.668-1.672.118-.56.208-1.243.313-2.033l.04-.306c.25-1.869.265-3.318-.188-4.316a2.418 2.418 0 00-1.137-1.2C13.924 5.085 13.353 5 12.75 5h-1.422l.015-.113c.07-.518.157-1.17.157-1.637 0-.922-.151-1.719-.656-2.3-.51-.589-1.247-.797-2.01-.884zM4.5 13.3c.705.088 1.39.284 2.072.478l.441.125c1.096.305 2.334.598 3.987.598 1.794 0 2.28-.223 2.528-.549.147-.193.276-.505.394-1.07.105-.502.188-1.124.295-1.93l.04-.3c.25-1.882.189-2.933-.068-3.497a.922.922 0 00-.442-.48c-.208-.104-.52-.174-.997-.174H11c-.686 0-1.295-.577-1.206-1.336.023-.192.05-.39.076-.586.065-.488.13-.97.13-1.328 0-.809-.144-1.15-.288-1.316-.137-.158-.402-.304-1.048-.378C8.357 1.521 8 1.793 8 2.25v.5c0 1.922-.978 3.128-1.933 3.825a5.861 5.861 0 01-1.567.81V13.3zM2.75 6.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25h-1a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25h1z"/>
-                                                </svg>
-                                                83%
-                                            </div>
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
-                                                </svg>
-                                                1 episode
-                                            </div>
-                                        </div>
-                                        <div class="infos">
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                                </svg>
-                                                Comedy, Slice of Life
-                                            </div>
-                                        </div>
-                                        <div class="description">Rin Shima has left her hometown in Yamanashi to live on her own in Nagoya while working for a small publishing company there. On one winter’s weekend in the not-too-distant future, as she’s planning a bike tour, she unexpectedly receives a message from an old high school friend, Chiaki Oogaki, saying she’s currently in Nagoya. Chiaki now works for an organization promoting tourism in Yamanashi, and she’s in charge of a project to reopen a facility that was closed a few years ago. When Rin casually suggests that such a large property would make a good campground, Chiaki is inspired. She gathers up all of their old camping buddies— Nadeshiko Kagamihara, who works at an outdoor goods store in Tokyo; Aoi Inuyama, who’s now an elementary school teacher in their hometown of Yamanashi; and Ena Saitou, who works at a dog grooming salon in Yokohama—and the campground-opening project is set in motion. So the story of five outdoorsy girls who became friends thanks to their shared love of camping begins once more, taking on a new challenge with the knowledge and experience they’ve gained.
-  
-(Source: Crunchyroll, edited)</div>
                                     </div>
                                 </div>
                                 <div class="media largeable-width-half">
@@ -1819,6 +1786,71 @@ Firepower and strategy are the name of the game as the schools square off on thr
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABQcGCAECBAMA/8QALRAAAgIBAwMDAwQCAwAAAAAAAQIDBAUABhESIUETUWEHIjEUFTJxJUIkUpH/xAAZAQACAwEAAAAAAAAAAAAAAAABAgADBAb/xAAnEQABAwMCBgIDAAAAAAAAAAABAAIRAxIhBTEEBhNBUWEWcTKBsf/aAAwDAQACEQMRAD8Aqt+TrPYcj386J4PC3MxZSKpGSXPAbjtzp8bb+i1aHHRjO5Ctj7Uo5SKccltO1hO6UuASH29jjksgkJUmPkdfHtq22yPovTj2/C1uVleRQ6L1fgHSYqYGHaX1Bir5CF5K7MA0a9jIvgjVgjk8Pjp4oTFkacxRWVZpywCn8atAtEBVk3fSjG9vol6mJnetZDKi9RjH5I+NVV3FjP2vKS1lDBUPHJ99Xmp7sx0V1KkEFm5alHAjD89Wqr/VuvHlN3SV8VTkrgSEyI/dkJPfnQIuHtFpg+ksoopJifTQuw/IHjWjxvGxV1KsPB1YLZuxcZtzEwZLdEZSpYPSoJ4Ln40tPqMMM+QlbFqyRg/Zy3PPxodMQmD5MLy2Lu2XbUbPXMHqknp9Rerp+dYm3lkcjmFnsWpzJ18gs5IHfwPGo6mDyTqWWnKw+NSTZuCZMjG+WArxE8AyD+PydRrnGBCDg3cp3Zi1jd+08LdxboNwr0wvF54Udjpq4LI0chj5mymNb9xxsKiSN+CzAdudBtrfSzBNUr5XFWi90ANHPE/CK3yNSy5UkpQ3MxYhEkqxCOaNBwZVHtpiRskC4rmbxWMwAylTHf8ANmJjhUAdXV8aUS06OByGVy+4wseX9P16sUn+zE88EedObbaJuCnWtRVf0lSvIXiimAJD+SdCN4fTrb1+Oxl9x2XS0oPMpk4jRfHbUaY3RMnZVV3rvizlJhDYkZ0ViyovZV59hpf2p3syl5G7+Bqab7xKyX2TEoLCLIQHjH5XwdRdsJkwnU1OTp/rS1LiYhMyITCwd2nFWKXJvvJ7AHUglgpfpRMwLIfnSYxrs+QgDOxHV76caH/Ewjt06zVgSQ4ErsuXqra1N9KpTabG4JGZ9rv2zvLJbOyKTY6d2oufvhkPVyPj21YXaW+MRvbGPXikWO5IvS0DH7h86rdkaAtpAyyxxAccgjWtxZKdyhLjpTWslunrQ8Bu3xpmVRAB3VWoctVg+rVpYAiAO84x4yrJZjcuK2Fgil+RWn6iY66n7mOkFu7eGV3hkGkyJkhof6QoenkfPvoPI1q5nictZa0yqCGYkgf+6651uerxCI1jH8QV1KlXs1HTOXHEdbiRsYtAnI85XnWr0mrGaNGAXse/toJnbVV6DCmzdQJ576M4g/4qT1yP5t1aiO6b1NYmGPHKj+fGloA3m4krZrdlPgWPpsYC4ZxDv14UFxnP7hBx/wBtNhbkS42JesB/IOlRjCBkIOQSvV+NOezmMUcNQjls1HtI33hE44XwDq4MuGVzOn6o7TnPLWzcIQXPWxIK3pSnpHHIHIOu23ciMmOBcEIwJPt21Ltwbm2xfh28YnqRyxS8WOEAAUD8nQPcuRwORFFa9uvFHDMWbgcFho9KYC3/ACV4qValn5248Wx/YQwXYjm5GEgXqQAMR2J19Z/Tzzs/6xlPHHSCdEs5uLFPZzCVXqmGWlHFFwncsPz0nwdHV3PtuO6paSm4NOONmCDgMB3H96HS9q080XhzalEEFxO57qGU7MMOInjMo6iTxz50r8yxF+UBiAfHjTCF6qIbQE8P3SMUHHjntpd5s85Fz2P9altoKzavxIr0uHiMN2Hb7yV//9k=" alt="" />
+                            <div class="about">
+                                <div class="name">Thief Simulator 2</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Indie, Simulation
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        2 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 3 Jul 2025
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            8 / 50 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwYBAwQF/8QALBAAAgIABQMCBAcAAAAAAAAAAQIDBAAFBhEhEhMxQVEHInGBFSNCg6Gz0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAAL/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRITFR/9oADAMBAAIRAxEAPwAw+IOsc8ynP1p5bdMVYVoXCdtW5K88kb4l21hqOcfNfY/tr/mKmzk8GodfLDa73aXLklPZALHpXxyDimq/hU1Zlj0z3oa8C8W4x4Gy/pXfck7+ffFa2Vkm1qENqF3UGZzFBdKIq9cksihUjQeWY7cD+SeBuTjF5Mzq5lU67wuZdZJMNqIbLJt5G3lWHqp5H0IOFO1XjXTDCpRjy+C1Xtd6BFPS5RfkJ35JHke25wc5panrZXp2jHMy05O7O8I2CtIJZFDn3IHG/tgdnVbDyezkV+zHrZFqSSoZsu6HMY3JAQkenoQD9Ri/rZhdObUI0a6I3MiyLIS4baPqHleOcC1k3TcitZfeWu3YWMlZ2jbj049PGNyZnnkYHVnLsR73pMD1inyMXxIzJqOXwCdZBHKk8YUDYdTJsCfpucD+oHUxaaKjb8mb++THJmF3NLqBLWaCVAdwsll3AP3xwOtlpapntQyxQfKiK+/SCSTtx7kn743gECrus//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>House Flipper</div>
+                                                <div class="unlocked">3 Jul 2025</div>
+                                            </div>
+                                            <div class="description">Fix your house</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwT/xAAqEAACAgEEAgEDAwUAAAAAAAABAgMEEQUGEiEAMRMHFDIiQVFCUlNhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAQADAQEAAAAAAAAAAAAAAAEAAhExIf/aAAwDAQACEQMRAD8AMPqJvHXNJ3GaenXjFWFeJgnxq2CV77Iz5w2vf3Nr4s2bWtRUNLqBWtXZ4gVj5fioUDLu2DhR2cH0BnzL3tE13dw4rzZq8IVQMknj6x4kbh2j9jsKvTruTDX1F5rAUjkDJCgjLgej+mQDP8/781qr2ZFKnOTFMNLVjHV07eF+G9N1XbU9NWvXnbOABIrNwyessMZ9keH9ibWKW4X07VWmisQStFNE44lWHsdeLf1FWrd2ft2OCatyji4itBhlSMIASDxDIS4bKEnJywOD5K/UakbGp6Lrzyxj7qvBX/WcS2XjhCyTqv8Aj5DjyOORHWfJd8ZVbCpPRtu4G3tJXCQ87WnhVmkZl+IqpYHIIOMjBGex5X6VLqVOeedtQmSGKNklr2dOCxTR9kosfLi3ajro9g58LqF6ajrCalVj0+dvtvgC2pHXhkEE4UjvB/fzVTdNpI2Q0NDKshjIM834kYP9X8eNdhrsU7ktPT9PuzPpdKXT2rmzLTEUgid148GZi5MbjlgqOiOv3z4Dbm1qzrW5xduy/JOz4z6CqBgKoHSqBgADoeUlzd9qatPC1PRAk0H27Ymm/HiB/d76HfkKK0i24pXmruAwyEfJ/wC+vGxWuM//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Pay rent</div>
+                                                <div class="unlocked">3 Jul 2025</div>
+                                            </div>
+                                            <div class="description">Pay rent like a normal citizen would</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+6 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwABAQEAAwEBAAAAAAAAAAAAAAgHBQYJAgT/xAA1EAABAwQABQEEBwkAAAAAAAABAgMEAAUGEQcIEiExYRMUQVEVNlRxgZGyFiIjJieSosHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJUpSlB9fdXaLLw/yq+MpftNklymleFoT2rvXLNhkXMMydVOQFtwEpeKT4I3ruKuSJCi29hDUNhphCRodCQkUHnlJ4TZ3Fb638YuCEjuVFI1r866bLjPRJDjEpCmXWz3Qsd916gxpMaYlQYdQ8lJIVo7G/lWJ8zuB264YPMvcaKwy/b0F5ZbQElQ8fCgiGlKUClKUFKckv1oyMj7Gj9dVNmBWnGLiUFXtC0dFJ0QfSpZ5JfrRkJP2RH6qrxxCXElDiQtCuxBoJd4C5mcYiXVu+tzF7kOHqcUTodXrXMcXeM2N3jAr/ZWHSJkmOW2kk+Tut/+ibd3H0fEO/P8JP8Aysm5jcIskvhzeLqmFGYlwWC62ppsJJO/SghOlKUClKUFK8k5P7TX9IG9RkE/3Vr/ADJZbdsRxWLKsjiW3luFJJG/hWQckw3lGRFJ1uIgf5V33nHP8jW8KCjp8nYOvlQZlC4j8XM8hIi2WEp8NgFbsdnp7etbrxM9+HL1e03b92aIGndjwe267Nw1szsDH7fKkKjBbsJoD3dvoGukEb+Zr8fHo/0eyg9iDEPUfTYoPOulKUClKUG88pORwrFmktia+hs3FpLCEq+YO6oXmCwafn2NwoNpdQhxDvWokb2ntUDMuOMuIdYcUh1J2lSToj8a0zHON2a2CKiNEuLbrSB29sjrUfxNBedjirg2O3xHCC4xHbaP3pSB/qsr5mcshWXhxcbU+4kzLi0WkIB8fHxU5z+YnPZbJaXLiNpPY9LGj+dZfeLxPvElcm5y35Tqj1bWslIPoDQcXSlKD//Z" alt="" />
                             <div class="about">
                                 <div class="name">Tom Clancy's Rainbow Six® Siege X</div>
@@ -1835,7 +1867,7 @@ Firepower and strategy are the name of the game as the schools square off on thr
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        20 hours played
+                                        21 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1843,7 +1875,7 @@ Firepower and strategy are the name of the game as the schools square off on thr
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 2 Jul 2025
+                                        Last played on 3 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1858,77 +1890,12 @@ Firepower and strategy are the name of the game as the schools square off on thr
                                 </div>
                             </div>
                         </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwADBAYIAgEF/8QALBAAAQIFAwQBBAIDAAAAAAAAAQIDAAQFBhEHEiETMUFRIggUMmEjkUJxof/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAP/xAAbEQADAQEBAQEAAAAAAAAAAAAAARECIQMSMf/aAAwDAQACEQMRAD8Ayx3IJjpoBSxtBzHOMd+DH1LXkxUK/JSrighLq8EmFlVpEbibLJZlj127ZzpUSQdfCMFxaeyB7Mal0t0bm7aknlVKfZcmX0YKUJI2f7gd6d1ug6WyyanPuPzU9NPFn7Jh3appIPC1eCDGibmqkwmn0ipSJ6bTmHnArn4lOQD/AHHVvfnqZOKWPTNYAL8+natTM3NTtLqDD6eVhkJO5R9CAJdNpVa2pssVuRelHc4SFjv+4Lt1at3givPPszjILLhCNicJCQeMiL7pffrerAm6BdtMYcnEt/GZS2B39RtrS7ouHl8yZFca2knPiO22ApO9RwfBi4ayWoiy77nKQ04HG9ocGPAVFbVtDaABuQBziCkmNuHyMjBMSae4Wp9hxKikpOcg9oYI8YhJA6g5xiOa5IJllr02JuUSsFZXkBSickxsqTrDVV+n92eSs/wSewKJ5BSAIw/MOn7JAB5B5HqNOaczjrv0l3FvBy2l4JPv5COnpr6dB55iMyvTjz9TUXXVKT1CTg+I0p9LNoP0Nqq3jcB+2kOlhnqHGMH8j+sGBZodYrdzVKYq1ZcEvSpBIc3uDAeVnBSII/1E325TqRK2bSm1SACA46kn821D4niA3RSAKv8ArUxcF21SoTbnUKn1paV7SFHH/Ignd00EgZx4iBxkb1bgPMTFKw2BnIPaGuB0RFsqx8kKA8H1DJR8u3MEupVegPW/Ly0pJqRUw4ouuqIKSjwAIo9XUypCOlj8uVCAVNs6or1Nl6lIrrsu9NUtLmZhlhexbifSVeDGnLYr9pO6B3S3btIqMrS20KUuXmHwtaju5wYyg6R00jPY9oM2lUypzRfUKWU+2tLcjvSyB8kEq/In1GYkQNRdYjcVFptIt6mikU+VQlK0pACnCBg5IgWvTT05MKen33n3cABTqypWPAyfERAMAH+xHbWckjk+BEX6YcO09hEoKG0ARFQrH5DmHmiOoMwrAtUXWT7iO6sHsYSgCOIbKcGDBKHiu+Ug4/cFbRtbYsvUxhbiUrepCUtg/wCSt8CopxxnI/UWiwpuUlZidaqEz9uxMNbDk4zG6Uqvbg94Q47Q9NJSJp4NnLe87T7GeIaxE6Y9Bx3zD7TrfkGGAM+YQGIvScP/2Q==" alt="" />
-                            <div class="about">
-                                <div class="name">Phasmophobia</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Action, Indie, Early Access
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        149 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 30 Jun 2025
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            48 / 54 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAwT/xAArEAACAgEDAwMBCQAAAAAAAAABAgMEBgAFERIhMRQVIlEHExZBYXGiwtL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ayqa5sG14xjUk2LVL9y7Ullmne7PGSyzyIOytx4UaPffscdflg9IfU+52v9a45CifhfDmXyadjn9/VSacGB1J8Jr5FV3+EL98ILENyu0AhfpBb5csWAJAB6QCT+WgHi3fHul2GD1GCAE9O42j0jxyfl20hDLjW7YrkzQYpT2+5UpxywzpesSMGM8aHhWbjwx0vY2ieL7KJ403qpYj9T6ytVpxSI88akJMzFlUuisyEE88ENx4PEvjiKMWzJj5WnX45+vqo9BVY1bqwbbiqyz161x9otx1J5SqiKY3GPPUQQjFA4Vj4JHcedUmeZps1PeNtkt7cNwsRGSu1f3ESBKbBQY5Sg4fqbrfpJJBPPI7cQUlPHt0xzHxPk1ShcqVpIpq7055D1NM7j5KvHhhrxNsOOpwVzOj+nG22R/XQaXgGW0rGY73e2+ONHaWGvQqPIleQbaA6mCFmPCMCUY8MCeCeT3BGzSzRmrZY0c8di82z1fWSIyt1TetUgMy9mcR9AY9+4PJJ5OoobDsEj8Pl1Ir9fb7BA/jpNaWPbXjOQiDKKl+1ZqxxwV46U8ZLCZH8svHhToP/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>No More Training Wheels</div>
-                                                <div class="unlocked">30 Jun 2025</div>
-                                            </div>
-                                            <div class="description">Complete Training</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwQGBf/EACoQAAEDAwQCAQMFAQAAAAAAAAECAwQFBhEAEiExByJBExQVFiRRcYGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ACtyXQabbVsqctSLUJ06K4468qa+2pS0vrQPVCsdJHxrQ1e1fsLOFxy/HcVEFKkh7NRlAtpVwFH25GSASOiR/mUkTBTKXYs9ppp9bMaQotuZ2q/dODBwQRwexyOxp4avhzyvRDQ6TRn4NOKUszX3dpbZyMBKTwFOKA9c7QkcnQGlCsv8taf6hjeP4f2ayoMA1GVl1Ke1Z3eozkAngkHr5zba7cqlr3QG7TiU2dDiNuNPJmyFrSsyG0H1WrGQFHTlM8mU3x5a8Kiy6O+5hlTKISVBYaGPXe4eitJyUkbuz0QSDRJv5SlX3UXWmmluxY6w22DtTmS2MDOSeB2eT2dBJX1INrWUknG2FICtoyRmW58fzjTqryZSaR40Nt+OYkaTUWIhdeWpILaU5SlTmFcuukqHrjg99YI05Dt+p25b4fuaJAmRIzjT0dcN9w7i8tY9kpx0oaqt9FBoEiXIYu2nvOvxlR0KVAlJ+kSpKgsYTyQUDg8aBQgXRb0PxjLtK/oTDdRkqdeXLD4kIkPBR3O/USSUvIVwUjnOAOFcCdrlCLWvcLJIVBj7NwwTiW3/ANxru3GaDXXo6W7hpkCOyXVhtmFLWkrcVvcUSoZ5IGB8AD+9TiFb1Ltq4QzdESfLlRW22Y6IT7ZKg8hZ5UnHSToP/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Taking All Challenges</div>
-                                                <div class="unlocked">27 Jan 2025</div>
-                                            </div>
-                                            <div class="description">Complete the weekly challenge mode 10 times</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+46 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2025, 10:04:31 (timezone Australia/Adelaide) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2025, 10:03:58 (timezone Australia/Adelaide) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
