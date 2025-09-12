@@ -44,10 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 mins
+Total Time: 0 secs
 
-HTML   6 mins          ████████████████░░░░░░░░░   64.47 %
-CSS    3 mins          █████████░░░░░░░░░░░░░░░░   35.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
