@@ -44,9 +44,9 @@ If you're interested, check out down below for some of my favourite games and An
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 47 mins
 
-No activity tracked
+Python   47 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
